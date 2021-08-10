@@ -133,7 +133,7 @@ samu330.on('CB:action,,call', async json => {
 const callerId = json[2][0][1].from;
 console.log("Llamada recibida de "+ callerId)
 console.log(chalk.greenBright("├"), chalk.keyword("magenta")("[ 📵Llamada recibida ]"), chalk.greenBright(callerId))
-samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Te bloqueare😒", MessageType.text, {quoted: {key: {
+samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Te bloqueare😒 Si Te Suscribes Ami Canal No Te Eliminarse del Grupo Pero Si Te Bloqueare Y si No Te Suscribes Te Mandare Tu Numero A Soporte Mi Canal:https://youtube.com/channel/UC8uPcst-wax9vrNGJGiBd-Q.       Ya Sabes Dale Like a Todos Mis Videos By Traxnox😊😊😊", MessageType.text, {quoted: {key: {
 fromMe: false,
 participant: `0@s.whatsapp.net`
 },
