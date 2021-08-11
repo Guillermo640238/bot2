@@ -974,13 +974,13 @@ _Tipo de usuario:_ ${tipoDeUsr}
 🕋rango: ${rango}
 ┖┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-🌹ڰۣڿڰۣڿஇღԑ̮̑ঙღڰۣڿڰۣڿஇ🌹
+Guillermo
 
 _Si quieres saber como crear este bot, usa el comando:_
 
 ${prefix}crear
 
-🌹ڰۣڿڰۣڿஇღԑ̮̑ঙღڰۣڿڰۣڿஇ🌹
+Guillermo
 
 🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*
 
